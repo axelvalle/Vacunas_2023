@@ -1,0 +1,58 @@
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.deps.json
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.AssemblyReference.cache
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfoInputs.cache
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfo.cs
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.deps.json
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.AssemblyReference.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfoInputs.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfo.cs
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.UserControl1.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.GenerateResource.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.AssemblyReference.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.UserControl1.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.GenerateResource.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfoInputs.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfo.cs
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.deps.json
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.deps.json
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.AssemblyReference.cache
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.UserControl1.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.GenerateResource.cache
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfoInputs.cache
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfo.cs
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.deps.json
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\bin\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.AssemblyReference.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.UserControl1.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.GenerateResource.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfoInputs.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.AssemblyInfo.cs
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\Log_Negocio\obj\Debug\netcoreapp3.1\Log_Negocio.pdb

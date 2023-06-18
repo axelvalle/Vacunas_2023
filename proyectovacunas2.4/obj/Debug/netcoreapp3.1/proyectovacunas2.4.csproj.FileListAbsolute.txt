@@ -1,0 +1,440 @@
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.exe
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.exe
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.deps.json
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.runtimeconfig.json
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.runtimeconfig.dev.json
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.pdb
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.AssemblyReference.cache
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Properties.Resources.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.GenerateResource.cache
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.AssemblyInfoInputs.cache
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.AssemblyInfo.cs
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.pdb
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.genruntimeconfig.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.AssemblyReference.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Administracion_de_vacunas.frmAdmin_vacuna.resources
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Bienvenida.resources
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\CampañadeVac.frmCampañaVA.resources
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\centrodesalus.frmCentroInfo.resources
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Empleados.frmEmpleados.resources
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Paciente.frmPacientes.resources
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmPrincipal.resources
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Properties.Resources.resources
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Reg_vacuna.frmRegVac.resources
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.GenerateResource.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.AssemblyInfoInputs.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.AssemblyInfo.cs
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.CoreCompileInputs.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.pdb
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.deps.json
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.runtimeconfig.json
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.runtimeconfig.dev.json
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.pdb
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.genruntimeconfig.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.CopyComplete
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Bienvenida.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\CampañadeVac.frmCampañaVA.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\centrodesalus.frmCentroInfo.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Empleados.frmEmpleados.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmPrincipal.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Reg_vacuna.frmRegVac.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.CopyComplete
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Reporte.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Administracion_de_vacunas.frmvacunacion.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.AssemblyReference.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Bienvenida.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\CampañadeVac.frmCampañaVA.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\centrodesalus.frmCentroInfo.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Empleados.frmEmpleados.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmPrincipal.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Properties.Resources.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Reg_vacuna.frmRegVac.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Reporte.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Administracion_de_vacunas.frmvacunacion.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.GenerateResource.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.AssemblyInfoInputs.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.AssemblyInfo.cs
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.CoreCompileInputs.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.pdb
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.exe
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.deps.json
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.runtimeconfig.json
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.runtimeconfig.dev.json
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.pdb
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.CopyComplete
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.genruntimeconfig.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmInformacion.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarEmpleado.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarPaciente.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarVacuna.resources
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Usuarios.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarEmpleado.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarPaciente.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarVacuna.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmInformacion.resources
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Usuarios.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.exe
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.deps.json
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.runtimeconfig.json
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.runtimeconfig.dev.json
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.pdb
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.AssemblyReference.cache
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Bienvenida.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\CampañadeVac.frmCampañaVA.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\centrodesalus.frmCentroInfo.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Empleados.frmEmpleados.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarEmpleado.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarPaciente.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarVacuna.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmPrincipal.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Properties.Resources.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Reg_vacuna.frmRegVac.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Reporte.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmInformacion.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Usuarios.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Administracion_de_vacunas.frmvacunacion.resources
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.GenerateResource.cache
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.AssemblyInfoInputs.cache
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.AssemblyInfo.cs
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.CoreCompileInputs.cache
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.CopyComplete
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.pdb
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.genruntimeconfig.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.exe
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.deps.json
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.runtimeconfig.json
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.runtimeconfig.dev.json
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\proyectovacunas2.4.pdb
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Server.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Log_Negocio.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\bin\Debug\netcoreapp3.1\Log_Negocio.pdb
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.AssemblyReference.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Bienvenida.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\CampañadeVac.frmCampañaVA.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\centrodesalus.frmCentroInfo.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Empleados.frmEmpleados.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarEmpleado.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarPaciente.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmEliminarVacuna.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmPrincipal.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Properties.Resources.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Reg_vacuna.frmRegVac.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Reporte.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.frmInformacion.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.Usuarios.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\Administracion_de_vacunas.frmvacunacion.resources
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.GenerateResource.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.AssemblyInfoInputs.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.AssemblyInfo.cs
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.CoreCompileInputs.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.csproj.CopyComplete
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.pdb
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.genruntimeconfig.cache

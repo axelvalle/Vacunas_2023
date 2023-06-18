@@ -1,0 +1,50 @@
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.deps.json
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.AssemblyReference.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfoInputs.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfo.cs
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.CoreCompileInputs.cache
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\source\repos\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.deps.json
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.AssemblyReference.cache
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfoInputs.cache
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfo.cs
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.CoreCompileInputs.cache
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\WILLIAM\Desktop\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.AssemblyReference.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfoInputs.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfo.cs
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.CoreCompileInputs.cache
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.deps.json
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\Desktop\Nueva carpeta (3)\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.deps.json
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.AssemblyReference.cache
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfoInputs.cache
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfo.cs
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.CoreCompileInputs.cache
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\Desktop\Pt\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.deps.json
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\CapaBD\bin\Debug\netcoreapp3.1\CapaBD.pdb
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.AssemblyReference.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfoInputs.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.AssemblyInfo.cs
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.csproj.CoreCompileInputs.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.dll
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\CapaBD\obj\Debug\netcoreapp3.1\CapaBD.pdb
