@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DWnMDz86h8hs2QHptnV2QsbOUfcqjjAtDu04BbFsMrfbWXlwMqDtIW2xZZ0vwUCfcGH+7DWAa1vXA+aRtOeUPQ==",
+  "dgSpecHash": "YW/fFKGMuVHpI7RvfhzD999DmOBhfO1eS3igtD+zz+blvSXo8ldKX+kF6UzTGqM+f+dZVOxus6d4XvnfmbGn1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
+  "projectFilePath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\volds\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\volds\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

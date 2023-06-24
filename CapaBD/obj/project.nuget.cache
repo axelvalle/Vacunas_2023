@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJNTXPznC7lpVF8c9KRutO2TOxfDfT/rlLEsHi7alEzD1BbkAEGdskd5cJAgBPSlgBzNwU+DF1AyjPD4bw+HKA==",
+  "dgSpecHash": "kH/T07s6plXdITnM0L8Uv3AfnMDvYMQvJi++KXP2OiIxXS6xvZrE2WyFWAJVfQmOBMgkBMUpskXkv+Wfbf1Xhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\CapaBD\\CapaBD.csproj",
+  "projectFilePath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\volds\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\volds\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

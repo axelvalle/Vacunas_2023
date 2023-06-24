@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\proyectovacunas2.4\\proyectovacunas2.4.csproj": {}
+    "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\proyectovacunas2.4\\proyectovacunas2.4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\CapaBD\\CapaBD.csproj": {
+    "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\CapaBD\\CapaBD.csproj",
+        "projectUniqueName": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj",
         "projectName": "CapaBD",
-        "projectPath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\CapaBD\\CapaBD.csproj",
+        "projectPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj",
         "packagesPath": "C:\\Users\\volds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\CapaBD\\obj\\",
+        "outputPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\Log_Negocio\\Log_Negocio.csproj": {
+    "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\Log_Negocio\\Log_Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\Log_Negocio\\Log_Negocio.csproj",
+        "projectUniqueName": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\Log_Negocio\\Log_Negocio.csproj",
         "projectName": "Log_Negocio",
-        "projectPath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\Log_Negocio\\Log_Negocio.csproj",
+        "projectPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\Log_Negocio\\Log_Negocio.csproj",
         "packagesPath": "C:\\Users\\volds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\Log_Negocio\\obj\\",
+        "outputPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\Log_Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -150,14 +150,14 @@
         }
       }
     },
-    "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\proyectovacunas2.4\\proyectovacunas2.4.csproj": {
+    "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\proyectovacunas2.4\\proyectovacunas2.4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
+        "projectUniqueName": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
         "projectName": "proyectovacunas2.4",
-        "projectPath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
+        "projectPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\proyectovacunas2.4\\proyectovacunas2.4.csproj",
         "packagesPath": "C:\\Users\\volds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\proyectovacunas2.4\\obj\\",
+        "outputPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\proyectovacunas2.4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -179,11 +179,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\CapaBD\\CapaBD.csproj": {
-                "projectPath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\CapaBD\\CapaBD.csproj"
+              "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj": {
+                "projectPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj"
               },
-              "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\Log_Negocio\\Log_Negocio.csproj": {
-                "projectPath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\Log_Negocio\\Log_Negocio.csproj"
+              "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\Log_Negocio\\Log_Negocio.csproj": {
+                "projectPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\Log_Negocio\\Log_Negocio.csproj"
               }
             }
           }

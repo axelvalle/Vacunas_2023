@@ -2679,11 +2679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\CapaBD\\CapaBD.csproj",
+      "projectUniqueName": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj",
       "projectName": "CapaBD",
-      "projectPath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\CapaBD\\CapaBD.csproj",
+      "projectPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\CapaBD.csproj",
       "packagesPath": "C:\\Users\\volds\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\volds\\Desktop\\Proyectos de programacion\\Proyecto Sistema de Vacunas 2M1-S\\SOL_proyectovacunas2.4\\CapaBD\\obj\\",
+      "outputPath": "C:\\Users\\volds\\Documents\\Github\\Vacunas_2023\\CapaBD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
