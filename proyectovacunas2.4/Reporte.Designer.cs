@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Reporte));
             registro = new System.Windows.Forms.DataGridView();
             Tip = new System.Windows.Forms.DataGridViewTextBoxColumn();
             rango = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -133,6 +134,7 @@
             Controls.Add(registro);
             DoubleBuffered = true;
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Name = "Reporte";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Reporte";

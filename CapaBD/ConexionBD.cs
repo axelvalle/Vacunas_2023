@@ -168,7 +168,49 @@ namespace CapaBD
             return mensaje;
         }
 
-        
+        //metodos para campaña de vacunacion
+
+        public string Insertar_Campaña(string fecha, string ejecutado, string tipoVacuna, string rangoEdades, string lugaresAplicacion, string empleadoParticipante)
+        {
+            string cadena = "INSERT INTO Campaña_De_Vacunacion (Fecha, Ejecutado, Tipo_de_vacuna, Rango_edades, Lugares_donde_se_aplico, Empleado_que_participo) VALUES " +
+                            "('" + fecha + "', '" + ejecutado + "', '" + tipoVacuna + "', '" + rangoEdades + "', '" + lugaresAplicacion + "', '" + empleadoParticipante + "')";
+
+            try
+            {
+                cn.Open();
+                cmd = new SqlCommand(cadena, cn);
+                cmd.ExecuteNonQuery();
+                mensaje = "Los datos se han insertado exitosamente";
+                cn.Close();
+            }
+            catch (Exception ex)
+            {
+                mensaje = ex.ToString();
+                cn.Close();
+            }
+            return mensaje;
+        }
+
+        public string Eliminar_Campaña(string fecha)
+        {
+            string cadena = "DELETE FROM Campaña_De_Vacunacion WHERE Fecha = '" + fecha + "'";
+
+            try
+            {
+                cn.Open();
+                cmd = new SqlCommand(cadena, cn);
+                cmd.ExecuteNonQuery();
+                mensaje = "Los datos se han eliminado exitosamente";
+                cn.Close();
+            }
+            catch (Exception ex)
+            {
+                mensaje = "La fecha que buscas no se ha encontrado";
+                cn.Close();
+            }
+            return mensaje;
+        }
+
 
 
     }

@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Usuarios));
             Usuario_label1 = new System.Windows.Forms.Label();
             contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(components);
             pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -162,6 +163,7 @@
             Controls.Add(Usuario_label1);
             DoubleBuffered = true;
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Name = "Usuarios";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Usuarios";

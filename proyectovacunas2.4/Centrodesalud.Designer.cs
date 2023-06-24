@@ -263,6 +263,7 @@ namespace centrodesalus
             ClientSize = new Size(1216, 652);
             Controls.Add(panel1);
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "frmCentroInfo";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

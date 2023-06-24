@@ -10,6 +10,9 @@
     <Compile Update="frmEliminarVacuna.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="tablaCampañas.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="tablavacunacion.cs">
       <SubType>Form</SubType>
     </Compile>

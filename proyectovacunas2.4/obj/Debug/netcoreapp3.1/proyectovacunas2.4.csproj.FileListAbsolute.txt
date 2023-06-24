@@ -438,3 +438,4 @@ C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1
 C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.dll
 C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.pdb
 C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2.4.genruntimeconfig.cache
+C:\Users\volds\Desktop\Proyectos de programacion\Proyecto Sistema de Vacunas 2M1-S\SOL_proyectovacunas2.4\proyectovacunas2.4\obj\Debug\netcoreapp3.1\proyectovacunas2._4.tablaCampañas.resources

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmEliminarEmpleado));
             label1 = new System.Windows.Forms.Label();
             cbEmpleado = new System.Windows.Forms.ComboBox();
             button1 = new System.Windows.Forms.Button();
@@ -70,6 +71,7 @@
             Controls.Add(cbEmpleado);
             Controls.Add(label1);
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Name = "frmEliminarEmpleado";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Eliminar";

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmRegVac));
             txtEfectos = new System.Windows.Forms.TextBox();
             txtFechaVencimiento = new System.Windows.Forms.TextBox();
             txtDosis = new System.Windows.Forms.TextBox();
@@ -343,6 +344,7 @@
             DoubleBuffered = true;
             ForeColor = System.Drawing.Color.Red;
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "frmRegVac";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

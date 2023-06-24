@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmvacunacion));
             label7 = new System.Windows.Forms.Label();
             txtObservaciones = new System.Windows.Forms.TextBox();
             dtSegundaDosis = new System.Windows.Forms.DateTimePicker();
@@ -297,6 +298,7 @@
             DoubleBuffered = true;
             Font = new System.Drawing.Font("Calisto MT", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
             Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             MinimizeBox = false;
             Name = "frmvacunacion";
