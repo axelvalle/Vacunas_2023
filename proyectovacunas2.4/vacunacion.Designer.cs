@@ -58,9 +58,9 @@
             label7.Location = new System.Drawing.Point(344, 524);
             label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             label7.Name = "label7";
-            label7.Size = new System.Drawing.Size(125, 20);
+            label7.Size = new System.Drawing.Size(117, 20);
             label7.TabIndex = 13;
-            label7.Text = "*Observaciones";
+            label7.Text = "Observaciones";
             // 
             // txtObservaciones
             // 
